@@ -1,9 +1,9 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: create-react-app-template
-  title: Create React App Template
-  description: Create a new CRA website project
+  name: webcomponent-template
+  title: Create Web Component Template
+  description: Create a new webcomponent project
   tags:
     - html
     - html5
@@ -13,7 +13,7 @@ metadata:
 spec:
   owner: ibson.machado@gmail.com
   type: website
-  parameters:
+  parameters: 
     - title: Provide some simple information
       required:
         - component_id
