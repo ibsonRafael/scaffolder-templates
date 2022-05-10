@@ -4,6 +4,7 @@ metadata:
   name: webcomponent-template
   title: Create Web Component Template
   description: Create a new webcomponent project
+  icon: xxx
   tags:
     - html
     - html5
