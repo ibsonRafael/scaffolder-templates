@@ -41,7 +41,7 @@ spec:
       properties:
         dep_1:
           title: Name
-          type: bolean
+          type: select
           description: Unique name of the component
           default: false
 
