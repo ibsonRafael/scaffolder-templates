@@ -4,13 +4,15 @@ metadata:
   name: webcomponent-template
   title: Create Web Component Template
   description: Create a new webcomponent project
-  icon: xxx
   tags:
     - html
     - html5
     - webcomponent
     - js
     - css3
+  k3:
+    background: xxxx
+    icon: yyyy
 spec:
   owner: ibson.machado@gmail.com
   type: webcomponent
