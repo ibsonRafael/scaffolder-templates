@@ -36,6 +36,29 @@ spec:
           ui:options:
             allowedKinds:
               - Group
+    - title: Dependecies
+      required:
+      properties:
+        dep_1:
+          title: Name
+          type: bolean
+          description: Unique name of the component
+          default: false
+
+        swagerf:
+          title: Swagger
+          type: string
+          description: Help others understand what this website is for.
+          format: "data-url"
+
+        owner:
+          title: Owner
+          type: string
+          description: Owner of the component
+          ui:field: OwnerPicker
+          ui:options:
+            allowedKinds:
+              - Group
     - title: Choose a location
       required:
         - repoUrl
