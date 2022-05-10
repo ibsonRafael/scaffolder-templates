@@ -11,8 +11,8 @@ metadata:
     - js
     - css3
   k3:
-    background: xxxx
-    icon: yyyy
+    background: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/webcomponent-template/wizard-k3t.png?raw=true
+    icon: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/webcomponent-template/wizard-k3t-icon.png?raw=true
 spec:
   owner: ibson.machado@gmail.com
   type: webcomponent
