@@ -12,7 +12,7 @@ metadata:
     - css3
 spec:
   owner: ibson.machado@gmail.com
-  type: website
+  type: webcomponent
   parameters: 
     - title: Provide some simple information
       required:
@@ -43,8 +43,6 @@ spec:
           title: Name
           type: select
           description: Unique name of the component
-          default: false
-
         swagerf:
           title: Swagger
           type: string
