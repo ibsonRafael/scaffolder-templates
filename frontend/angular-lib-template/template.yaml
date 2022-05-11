@@ -10,8 +10,8 @@ metadata:
     - html5
     - css3
   k3:
-    icon: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/webcomponent-template/icon-k3t.png?raw=true
-    background: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/webcomponent-template/wizard-k3t.png?raw=true
+    icon: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/angular-lib-template/icon-k3t.png?raw=true
+    background: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/angular-lib-template/wizard-k3t.png?raw=true
 spec:
   owner: ibson.machado@gmail.com
   type: library
