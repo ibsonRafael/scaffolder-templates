@@ -2,14 +2,15 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: webcomponent-template
-  title: Create Web Component Template
-  description: Create a new webcomponent project
+  title: Webcomponent
+  description: Criar um novo webcomponente fazendo uso de shadow-dom com isolamento completo
   tags:
+    - webcomponent
     - html
     - html5
-    - webcomponent
     - js
     - css3
+    - kode3
   k3:
     background: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/webcomponent-template/wizard-k3t.png?raw=true
     icon: https://github.com/ibsonRafael/scaffolder-templates/blob/main/frontend/webcomponent-template/icon-k3t.png?raw=true
